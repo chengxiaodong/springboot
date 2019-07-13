@@ -1,0 +1,6 @@
+
+damonbean:
+  dev:
+    content: from dev bean
+  pro:
+    content: from pro bean
